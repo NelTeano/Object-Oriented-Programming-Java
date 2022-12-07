@@ -8,8 +8,9 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
 
-
-
+//Lecture 2 Programming Exercise #2(COMPLETED) 
+//Design a class named Person and its two subclasses named Student and Employee. Make Faculty and Staff subclasses of Employee.        
+/*
         Person p1 = new Person("Jonel", "General Trias Cavite", "09156236917","jonel.teano@cvsu.edu.ph");
         System.out.println(p1.toString());
 
@@ -25,7 +26,7 @@ public class Main {
 
         Staff stff1 = new Staff("Jonel", "General Trias Cavite", "09156236917","jonel.teano@cvsu.edu.ph", 1,5000,"Administrator");
         System.out.println(stff1.toString());
-
+*/
 
 
 
